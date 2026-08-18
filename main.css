@@ -1,0 +1,25 @@
+button{
+  border: none;
+  border-radius: 3px;
+  background-color: rgb(149, 29, 76);
+  color:white;
+  height: 26px;
+  font-size: 11px;
+  width: 90px;
+  margin-left: 5px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+p{
+    display: inline-block;
+    margin: 0px;
+    font-family: arial;
+    margin-left: 5px;
+}
+body{
+  background-color: rgb(149, 29, 76);
+  padding-top: 70px;
+  padding-right: 20px;
+  padding-left: 20px;
+}

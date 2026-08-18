@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(85, 45, 255);
+}
+.homebut {
+  border: none;
+  border-radius: 6px;
+  background-color: rgb(149, 29, 76);
+  color: white;
+  height: 30px;
+  width: 50px;
+  font-size: 11px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.divimg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 40px;
+  background-color: rgb(149, 29, 76);
+}
+img {
+  width: 1000px;
+}
+.divdown {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+}
+.downbut {
+  border: none;
+  border-radius: 6px;
+  background-color: rgb(149, 29, 76);
+  color: white;
+  height: 40px;
+  width: 300px;
+}
